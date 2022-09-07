@@ -1,6 +1,21 @@
-# challenge
+# Flutter challenge
 
-A new Flutter project.
+The premise is a car dealership that needs to display all the cars info in a list and then be able to select any car and view its details. You are responsible for making this happen. 
+
+Heres what it should look like: 
+<br>
+<img src="https://user-images.githubusercontent.com/43455924/188979640-1c948925-433f-46a1-a184-c238e048822b.png" width="250">
+<img src="https://user-images.githubusercontent.com/43455924/188979673-55a518c8-2f27-455d-95d5-67213cc50d61.png" width="250">
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/43455924/188979591-473c7366-6270-4796-8bc8-099194352aa9.mp4
+
+
 
 ## Getting Started
 
